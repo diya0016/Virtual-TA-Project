@@ -1,0 +1,15 @@
+{
+  "name": "virtual-ta-project",
+  "version": "1.0.0",
+  "description": "A RAG system that automatically answers student questions for Teaching Assistants using course content and discourse posts from IIT Madras' Tools in Data Science course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "promptfoo": "^0.114.7"
+  }
+}
